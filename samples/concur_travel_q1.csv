@@ -1,0 +1,7 @@
+Report_ID,Entry_ID,Expense_Type,Transaction_Date,Vendor_Name,Transaction_Amount,Currency,Start_Location,End_Location,Distance,Distance_Unit,Airline_Service_Class
+RPT-2026-0142,ENT-001,Airfare,2026-01-08,Lufthansa,485.20,EUR,FRA,CDG,,,COACH
+RPT-2026-0142,ENT-002,Hotel,2026-01-08,Marriott Paris,892.00,EUR,Paris,,,,
+RPT-2026-0143,ENT-001,Airfare,2026-01-22,United Airlines,1240.00,USD,ORD,LHR,,,BUSIN
+RPT-2026-0144,ENT-001,Ground Transport,2026-02-03,Uber,34.50,USD,Chicago O'Hare,Loop,28,mi,
+RPT-2026-0145,ENT-001,Airfare,2026-02-15,Delta,320.00,USD,ATL,ATL,,,COACH
+RPT-2026-0146,ENT-001,Car Rental,2026-02-20,Hertz,156.00,EUR,Munich,Munich,3,days,

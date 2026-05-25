@@ -1,0 +1,6 @@
+account_number,meter_number,service_address,start_date,end_date,usage,unit,total_charge,rate_schedule
+ACC-77821,MTR-99102,"Hamburg Manufacturing, Werk 1710",2026-01-01,2026-01-31,185420,kWh,42876.50,DE-IND-HT-NT
+ACC-77821,MTR-99102,"Hamburg Manufacturing, Werk 1710",2026-02-01,2026-02-28,172300,kWh,39102.20,DE-IND-HT-NT
+ACC-77822,MTR-99103,"Munich Office, Leopoldstr 12",2026-01-15,2026-02-14,8420,kWh,2105.00,DE-COMM-FLAT
+ACC-77823,MTR-99104,"Chicago Distribution Center",2026-01-01,2026-01-31,95400,kWh,11448.00,US-COM-TOU
+ACC-77824,MTR-99105,"Unknown satellite meter",2026-02-28,2026-02-01,,kWh,0.00,US-COM-TOU
