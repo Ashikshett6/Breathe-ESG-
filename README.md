@@ -8,11 +8,13 @@ Django REST + React app for ingesting SAP, utility, and corporate travel data, n
 
 ## Live deployment
 
-Deploy to [Render](https://render.com) using the included `render.yaml` blueprint:
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Ashikshett6/Breathe-ESG-)
 
-1. Repo is hosted at [Ashikshett6/Breathe-ESG-](https://github.com/Ashikshett6/Breathe-ESG-).
-2. Render Dashboard → **New** → **Blueprint** → connect that repository.
-3. After deploy, open the service URL (add it below once live).
+1. Click **Deploy to Render** above (sign in with GitHub as **Ashikshett6**).
+2. Confirm the blueprint (`render.yaml` creates DB + web service) and click **Apply**.
+3. Wait ~5–10 minutes for the build. Open your `*.onrender.com` URL.
+
+**Live URL:** _(add after deploy, e.g. `https://breathe-esg-review.onrender.com`)_
 
 **Demo login:** `analyst` / `demo1234` (created by `seed_demo` on build)
 
