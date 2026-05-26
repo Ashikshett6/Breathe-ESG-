@@ -66,13 +66,7 @@ CSV files in [`samples/`](./samples/) match the three source parsers. Upload via
 | `POST /api/activities/lock_approved/` | Lock approved for audit |
 | `POST /api/ingest/upload/` | multipart: `source_type`, `file` |
 
-## Repository access (submission)
 
-Grant read access to:
-
-- saurav@breatheesg.com
-- rahul@breatheesg.com
-- shivang@breatheesg.com
 
 ## Tech stack
 
